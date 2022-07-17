@@ -13301,19 +13301,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jerom\\.nuget\\packages\\": {}
+    "C:\\Users\\jtesselaar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.NET development\\asp-dot-net-openapi-swagger-testing-code-generation\\Library\\Library.API\\Library.API.csproj",
+      "projectUniqueName": "C:\\Users\\jtesselaar\\OneDrive - SnelStart Software B.V\\Documenten\\GitHub\\asp-dot-net-openapi-swagger-testing-code-generation\\Library\\Library.API\\Library.API.csproj",
       "projectName": "Library.API",
-      "projectPath": "E:\\.NET development\\asp-dot-net-openapi-swagger-testing-code-generation\\Library\\Library.API\\Library.API.csproj",
-      "packagesPath": "C:\\Users\\jerom\\.nuget\\packages\\",
-      "outputPath": "E:\\.NET development\\asp-dot-net-openapi-swagger-testing-code-generation\\Library\\Library.API\\obj\\",
+      "projectPath": "C:\\Users\\jtesselaar\\OneDrive - SnelStart Software B.V\\Documenten\\GitHub\\asp-dot-net-openapi-swagger-testing-code-generation\\Library\\Library.API\\Library.API.csproj",
+      "packagesPath": "C:\\Users\\jtesselaar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jtesselaar\\OneDrive - SnelStart Software B.V\\Documenten\\GitHub\\asp-dot-net-openapi-swagger-testing-code-generation\\Library\\Library.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jerom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jtesselaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
